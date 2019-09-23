@@ -1,6 +1,7 @@
 require_relative 'spec_helper'
 require_relative '../lib/keys.rb'
- do groceries.keys ("dairy. vegetable, meat, grains")
+ #keys
+  do groceries.keys ("dairy. vegetable, meat, grains")
     
 
 
